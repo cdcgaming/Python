@@ -4,4 +4,3 @@ def print_greeting(greet):
 print_greeting("Muy Bien")
 
 print(type(print_greeting))
-
